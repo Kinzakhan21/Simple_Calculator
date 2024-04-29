@@ -1,0 +1,21 @@
+{
+  "name": "khan_with_simple_calculator_01",
+  "version": "2.2.3",
+  "description": "A simple calculator with typescript nodesjs and inquirer",
+  "main": "index.js",
+  "bin":"index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tsc && index.js"
+  },
+  "author": "kinza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquire": "^9.0.7"
+  }
+  
+  }
+  
